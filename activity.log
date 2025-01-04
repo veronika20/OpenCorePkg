@@ -106,3 +106,5 @@
 2025-04-18 19:25:00 | INFO | repo=OpenCorePkg | action=commit
 2025-01-14 21:35:00 | WARN | repo=OpenCorePkg | action=commit
 2025-07-09 16:52:00 | INFO | repo=OpenCorePkg | action=commit
+2025-05-07 13:08:00 | WARN | repo=OpenCorePkg | action=edit | files=3
+2025-01-04 16:20:00 | WARN | repo=OpenCorePkg | action=commit
